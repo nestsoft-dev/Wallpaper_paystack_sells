@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "313532734978",
+    "project_id": "sell-wallpaper",
+    "storage_bucket": "sell-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313532734978:android:6a5638278ce44cd261111b",
+        "android_client_info": {
+          "package_name": "com.netsoft.ns_wallpaper_paystack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313532734978-58cu18qh8jsj6soro9vfqfia1nkd2va0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXL1wGCQcAfecs2hAUeaxzMNyrLuf0Wmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313532734978-58cu18qh8jsj6soro9vfqfia1nkd2va0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313532734978:android:cd82300139a3483061111b",
+        "android_client_info": {
+          "package_name": "com.example.seller_walllpaper_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313532734978-58cu18qh8jsj6soro9vfqfia1nkd2va0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXL1wGCQcAfecs2hAUeaxzMNyrLuf0Wmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313532734978-58cu18qh8jsj6soro9vfqfia1nkd2va0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
